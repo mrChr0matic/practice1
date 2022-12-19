@@ -87,6 +87,7 @@ hr{
     font-size: 1.563rem;
     font-weight: 700;
     color:  hsl(233, 8%, 79%);
+    margin-bottom:0px;
 }
 .read{
     position: relative;
